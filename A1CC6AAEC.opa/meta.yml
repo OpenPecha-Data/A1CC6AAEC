@@ -1,0 +1,22 @@
+id: A1CC6AAEC
+title: Toh_563-Upholding_the_Great_Secret_Mantra-v1
+type: translation
+pechas:
+- I34F6933E
+- I8948F78F
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-07-26T04:14:37.687Z'
+  creationid: celso
+  eft-text-id: UT22084-090-007
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_563-Upholding_the_Great_Secret_Mantra-v1
+alignment_to_base:
+  I34F6933E/D778: A5C5
+  I8948F78F/6915: A5C5
